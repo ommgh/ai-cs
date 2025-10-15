@@ -80,4 +80,3 @@ A full-stack Next.js App Router application that provides an AI-powered customer
 - POST /api/admin/login — Set `admin_auth` cookie
 - POST /api/admin/logout — Clear cookie and redirect to “/”
 - GET/POST /api/settings — Demo settings
-# ai-cs
